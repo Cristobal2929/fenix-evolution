@@ -1,5 +1,7 @@
-title: Fénix Evolution – Web + IA
-description: Página estática de venta para el servicio de creación de sitios y herramientas de IA.
+---
+title: Fénix Evolution – Soluciones Digitales
+description: Página de venta de una agencia que entrega webs profesionales y herramientas de IA en minutos.
+colorFrom: blue
+colorTo: blue
 sdk: static
-colorFrom: yellow
-colorTo: red
+---
